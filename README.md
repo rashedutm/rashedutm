@@ -1,4 +1,4 @@
-👋 Hi, I’m @Rashed-UTM <br> <br>
+👋 Hi, I’m Rashed <br> <br>
 👀 I’m interested in programming and robotics <br>
 🌱 I’m currently learning microcontrollers, embedded systems, assembly language, C++, HTML, CSS, JS, Java, Python <br>
 💞️ I’m looking to collaborate on robotics projects, backend development and frontend development <br>
