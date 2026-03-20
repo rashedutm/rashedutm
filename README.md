@@ -1,6 +1,6 @@
 👋 Hi, I’m @Rashed-UTM <br> <br>
 👀 I’m interested in programming and robotics <br>
-🌱 I’m currently learning microcontrollers, embedded systems, assembly language, C++, HTML, CSS, JS, Java <br>
+🌱 I’m currently learning microcontrollers, embedded systems, assembly language, C++, HTML, CSS, JS, Java, Python <br>
 💞️ I’m looking to collaborate on robotics projects, backend development and frontend development <br>
 📫 How to reach me: mdrashedurrahman@graduate.utm.my<br>
 😄 Pronouns: He/Him <br>
